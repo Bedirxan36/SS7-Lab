@@ -272,4 +272,4 @@ Unauthorized use against telecom networks is illegal.
 
 # Official Repository
 
-https://github.com/SigPloiter/SigPloit
+https://github.com/Bedirxan36/SS7-Lab
