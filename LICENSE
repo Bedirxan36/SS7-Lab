@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 shiky
+Copyright (c) 2026 DoganTech
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+DISCLAIMER:
+This software is provided strictly for educational, research, and authorized security testing purposes only.
+Any misuse of this software, including unauthorized access, interception, disruption, or illegal activities using SS7 or related telecommunications protocols, is solely the responsibility of the user.
+By using this software, you agree that the author and copyright holder shall not be held responsible or liable for any damages, legal issues, claims, or consequences arising from the use or misuse of this software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
